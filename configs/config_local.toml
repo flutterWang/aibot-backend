@@ -1,0 +1,12 @@
+host = "127.0.0.1"
+port = "8002"
+tcp_port = ":82"
+ai_server = "http://58.246.3.170:18003"
+jwt_secret = "aibot-go"
+jwt_expiration = 3600
+app_id = "wxa2e09f2b9454e91c"
+app_secret = "113daddbdf310079b48519d97b0e4ed5"
+
+[mongo]
+uri = "mongodb://127.0.0.1:27017"
+database = "ai_home"
